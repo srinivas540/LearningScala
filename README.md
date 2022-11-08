@@ -1,0 +1,2 @@
+# LearningScala
+Scala Practice Repo
